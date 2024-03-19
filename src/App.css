@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero-section{
+  max-width: 1280px;
+  max-height: 900px;
+  background-image: url(./assets/home-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hero{
+  max-width: 530px;
+
+}
+
+.main-title{
+  max-width: 455px;
+  font-size: 60px;
+  font-weight: 800px ;
+}
+.title{
+  font-size: 36px;
+  color: #68A47F;
+}
+.btn{
+  font-size: 20px;
+}
